@@ -1,5 +1,5 @@
 # jsonp用法例子
-···
+```
 // options = {
 //     cb: 'mycallback',
 //     error: function(){
@@ -16,4 +16,4 @@
 // }
 
 // JsonP(url,options);
-···
+```
